@@ -1,0 +1,3 @@
+/home/jneira/Insync/UTEC/UTEC/05 - 2020-2/Algoritmos y Estructura de datos/S01/Hello/build/CMakeFiles/rebuild_cache.dir
+/home/jneira/Insync/UTEC/UTEC/05 - 2020-2/Algoritmos y Estructura de datos/S01/Hello/build/CMakeFiles/edit_cache.dir
+/home/jneira/Insync/UTEC/UTEC/05 - 2020-2/Algoritmos y Estructura de datos/S01/Hello/build/CMakeFiles/hello.dir

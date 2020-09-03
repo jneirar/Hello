@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jneira/Insync/UTEC/UTEC/05 - 2020-2/Algoritmos y Estructura de datos/S01/Hello/src/main.cpp
+iostream
+-
+
